@@ -1,2 +1,11 @@
+body{
+	background-color: lightgray;
+}
 
-/* Your CSS Code here. */
+.navbar{
+	display: flex;
+}
+
+.navbar>na>list>a{
+	list-style:none;
+}
